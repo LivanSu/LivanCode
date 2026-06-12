@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/
+target/
+*.class
+*.jar
+*.log
+.env
+.vscode/
+.idea/
+*.swp
+*.swo
